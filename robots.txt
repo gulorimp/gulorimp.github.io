@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gulorimp.github.io/sitemap
+Sitemap: https://gulorimp.github.io/app/sitemap
+Sitemap: https://gulorimp.github.io/assets/sitemap
+Sitemap: https://gulorimp.github.io/css/sitemap
+Sitemap: https://gulorimp.github.io/includes/sitemap
+Sitemap: https://gulorimp.github.io/item/sitemap
+Sitemap: https://gulorimp.github.io/src/sitemap
